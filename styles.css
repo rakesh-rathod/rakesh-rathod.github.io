@@ -1,0 +1,44 @@
+.display-4{
+
+    color: #121111;
+font-family: Irish Grover;
+font-size: 60px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.navbar{
+    color: #000;
+font-family: Irish Grover;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.navbar-brand{
+    color: #000;
+font-family: Irish Grover;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.lead{
+    color: #121111;
+font-family: Irish Grover;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.d-inline-block:hover {
+    transform: scale(1.1);
+    border-radius: 50%;
+    zoom: 1.5;
+}
+
+.hr{
+    height: 8px;
+}
